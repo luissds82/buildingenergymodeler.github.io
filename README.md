@@ -6,24 +6,41 @@ Ipsum Dolor Sit amet
 
 ### Using BEM() - Tutorial
 Ipsum dolor sit amet...
-
 <details> 
-  <summary> <b> <font size="100"> Creating a building </font> </b> </summary>
+  <summary> <b> Creating a building </b> </summary>
   
   Something...
 </details>
 
-### Creating a building
+<details> 
+  <summary> <b> Changing Window-to-Wall (WWR) ratio </b> </summary>
+  
+  Something...
+</details>
 
-### Changing Window-to-Wall ratio
+<details> 
+  <summary> <b> Changing Materials </b> </summary>
+  
+  Something...
+</details>
 
-### Changing Materials
+<details> 
+  <summary> <b> Visualizing the Model </b> </summary>
+  
+  Something...
+</details>
 
-### Simulating a building
+<details> 
+  <summary> <b> Simulating a Building </b> </summary>
+  
+  Something...
+</details>
 
-### Visualization
-#### The Building Energy Model
-#### Results
+<details> 
+  <summary> <b> Visualizing Results </b> </summary>
+  
+  Something...
+</details>
 
 
 # Appendix
