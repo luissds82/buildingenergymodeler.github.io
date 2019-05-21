@@ -10,6 +10,12 @@ Ipsum Dolor Sit amet
 ## Using BEM() - Tutorial
 Ipsum dolor sit amet...
 
+<details> 
+  <summary> <b> Creating a building </b> </summary>
+  
+  Something...
+</details>
+
 ### Creating a building
 
 ### Changing Window-to-Wall ratio
