@@ -1,13 +1,13 @@
-## Installation
+### Installation
 Ipsum Dolor Sit amet
 
-## BEM() - What is it?
+### BEM() - What is it?
 <details>
   <summary>  </summary>
   Something...
 </details>
 
-## Using BEM() - Tutorial
+### Using BEM() - Tutorial
 Ipsum dolor sit amet...
 
 <details> 
