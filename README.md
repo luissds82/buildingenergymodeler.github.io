@@ -2,10 +2,7 @@
 Ipsum Dolor Sit amet
 
 ### BEM() - What is it?
-<details>
-  <summary>  </summary>
-  Something...
-</details>
+  Ipsum Dolor sit amet ...
 
 ### Using BEM() - Tutorial
 Ipsum dolor sit amet...
