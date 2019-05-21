@@ -9,17 +9,17 @@ Ipsum Dolor Sit amet
 ## Using BEM() - Tutorial
 Ipsum dolor sit amet...
 
-### 3.1. Creating a building
+### Creating a building
 
-### 3.2. Changing Window-to-Wall ratio
+### Changing Window-to-Wall ratio
 
-### 3.3. Changing Materials
+### Changing Materials
 
-### 4. Simulating a building
+### Simulating a building
 
-### 5. Visualization
-#### 5.1. The Building Energy Model
-#### 5.2. Results
+### Visualization
+#### The Building Energy Model
+#### Results
 
 
 # Appendix
