@@ -1,9 +1,8 @@
 ## Installation
 Ipsum Dolor Sit amet
 
-## BEM() - What is it?
 <details>
-  ###Urray
+  <summary> ## BEM() - What is it? </summary>
 </details>
 
 ## Using BEM() - Tutorial
