@@ -45,7 +45,7 @@ Ipsum dolor sit amet...
   Something...
 </details>
 
-
+ 
 # Appendix
 ## BEM() - attributes and methods
 The following lists and briefly summarizes each class variable, atributes, and methods.
