@@ -1,3 +1,32 @@
+# BEM()
+A python based building energy modeler
+
+**1. Installation**
+Ipsum Dolor Sit amet
+
+## BEM() - What is it?
+
+## Using BEM() - Examples
+Ipsum dolor sit amet...
+
+### Creating a building
+
+### Changing building properties
+####
+
+# Appendix
+## BEM() - attributes and methods
+The following lists and briefly summarizes each class variable, atributes, and methods.
+
+### Class Variables
+
+### Attributes
+
+### Relevant Methods
+
+
+
+# MARKDOWN TEMPLATE GUIDE (to be deleted)
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/luissds82/buildingenergymodeler.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
