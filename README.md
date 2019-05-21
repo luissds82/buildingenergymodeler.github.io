@@ -1,18 +1,26 @@
 # BEM()
 A python based building energy modeler
 
-**1. Installation**
+## Installation
 Ipsum Dolor Sit amet
 
 ## BEM() - What is it?
 
-## Using BEM() - Examples
+## Using BEM() - Tutorial
 Ipsum dolor sit amet...
 
-### Creating a building
+### 3.1. Creating a building
 
-### Changing building properties
-####
+### 3.2. Changing Window-to-Wall ratio
+
+### 3.3. Changing Materials
+
+### 4. Simulating a building
+
+### 5. Visualization
+#### 5.1. The Building Energy Model
+#### 5.2. Results
+
 
 # Appendix
 ## BEM() - attributes and methods
