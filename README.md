@@ -12,8 +12,7 @@ Ipsum dolor sit amet...
   Something...
 </details>
 
-#### 
-
+#### " "
 <details> 
   <summary> <b> Changing Window-to-Wall (WWR) ratio </b> </summary>
   
