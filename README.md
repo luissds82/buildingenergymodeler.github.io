@@ -1,5 +1,5 @@
 # BEM()
-A python-based building energy modeler for [Energy Plus](https://energyplus.net/).
+A python-based building energy modeler for [Energy Plus](https://energyplus.net/){:target="_blank"}.
 
 ## Installation
 Ipsum Dolor Sit amet
