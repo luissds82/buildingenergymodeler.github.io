@@ -12,13 +12,11 @@ Ipsum dolor sit amet...
   Something...
 </details>
 
-####
 <details> 
   <summary> <b> Changing Window-to-Wall (WWR) ratio </b> </summary>
   
   Something...
 </details>
-
 
 <details> 
   <summary> <b> Changing Materials </b> </summary>
