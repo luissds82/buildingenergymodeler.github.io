@@ -12,11 +12,13 @@ Ipsum dolor sit amet...
   Something...
 </details>
 
+
 <details> 
   <summary> <b> Changing Window-to-Wall (WWR) ratio </b> </summary>
   
   Something...
 </details>
+
 
 <details> 
   <summary> <b> Changing Materials </b> </summary>
@@ -24,17 +26,20 @@ Ipsum dolor sit amet...
   Something...
 </details>
 
+
 <details> 
   <summary> <b> Visualizing the Model </b> </summary>
   
   Something...
 </details>
 
+
 <details> 
   <summary> <b> Simulating a Building </b> </summary>
   
   Something...
 </details>
+
 
 <details> 
   <summary> <b> Visualizing Results </b> </summary>
