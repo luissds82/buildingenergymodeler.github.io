@@ -8,7 +8,7 @@ Ipsum Dolor Sit amet
 Ipsum dolor sit amet...
 
 <details> 
-  <summary> <b> Creating a building </b> </summary>
+  <summary> <b> <font size="12"> Creating a building </b> </font> </summary>
   
   Something...
 </details>
