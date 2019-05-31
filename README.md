@@ -16,10 +16,10 @@ The PyBEM module requires the following anciliary software, packages, and librar
   
   First of all we need to import the PyBEM module, the PyBEM class, methods, attributes, and auxiliary functions.
   
-  {% highlight ruby %}
+  ```python
   import pybem
   from pybem import *
-  {% endhighlight %}
+  ```
   
   Then we call the 'BEM' class to instantiate an building energy model (BEM). To instantiate the class we need to provide (in order): 
   1. Number of floors
@@ -32,9 +32,9 @@ The PyBEM module requires the following anciliary software, packages, and librar
   
   Below is an example of how to create a BEM of a 60 by 30 m building with 5 floors with PyBEM. The floor height, location, WWR, and rotation are kept as default.
   
-  ```python
+  {% highlight python %}
   bldg = BEM(5, 60, 30)
-  ```
+  {% highlight python %}
   
 </details>
 
