@@ -19,7 +19,6 @@ The PyBEM module requires the following anciliary software, packages, and librar
   ```python
   import pybem
   from pybem import *
-  import pybem
   ```
   
   Then we call the 'BEM' class to instantiate an building energy model (BEM). To instantiate the class we need to provide (in order): 
