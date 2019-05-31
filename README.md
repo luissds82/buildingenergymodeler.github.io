@@ -18,8 +18,8 @@ First of all we need to import the PyBEM module which includes several auxiliary
   from PyBEM import pybem
   from PyBEM.pybem import *
   ```
-  
-  Then we call the 'BEM' class to instantiate an building energy model (BEM). To instantiate the class we need to provide (in order): 
+
+Then we call the 'BEM' class to instantiate an building energy model (BEM). To instantiate the class we need to provide (in order): 
   1. Number of floors
   2. Width
   3. Length
@@ -28,75 +28,47 @@ First of all we need to import the PyBEM module which includes several auxiliary
   6. Location - i.e., the path to an EnergyPlus weather file (epw) - a text file that contains Typical Metereological Year data of a specific location. By default, the location is set to Phoenix, AZ. [EnergyPlus website](https://energyplus.net/weather) provides an extensive library of epw files for diferent locations around the globe.
   7. Rotation - by default is set to 0&deg;. PyBEM only supports a rotation angle from 0&deg; to 90&deg; 
   
-  Below is an example of how to create a BEM of a 60 by 30 m building with 5 floors with PyBEM. The floor height, location, WWR, and rotation values are the default ones.
+Below is an example of how to create a BEM of a 60 by 30 m building with 5 floors with PyBEM. The floor height, location, WWR, and rotation values are the default ones.
   
-  {% highlight python %}
+  ```python
   bldg01 = BEM(5, 60, 30)
-  {% endhighlight %}
+  ```
   
-  The following generates a building of 25 by 70 m building with 15 floors, each one with a floor to ceiling height of 3 m, with a rotation angle of 30&deg;. The location and WWR values are the default ones.
+The following generates a building of 25 by 70 m building with 15 floors, each one with a floor to ceiling height of 3 m, with a rotation angle of 30&deg;. The location and WWR values are the default ones.
  
-  {% highlight python %}
+ ```python
   bldg02 = BEM(15, 25, 70, rotation= 30.0)
-  {% endhighlight %}
+  ```
   
-</details>
-
-<details> 
-  <summary> <b> Changing the rotation of the model </b> </summary>
-  After instantiating an energy model by using the BEM class, PyBEM allows to change several object properties such as the rotation of the building. PyBEM only allows to rotate the building model in a continuous range from 0&deg; to 90&deg;. However, due to the rectangular plan shape of the models produced by PyBEM, this ranges allows the simulation of any possible exposure scheme of a shoe box energy model. By default the rotation angle is 0&deg;. Because the original facades can assume different exposures/orientations, PyBEM labels each facade as shown in Figure 1 (below):
+#### Changing the rotation of the model
+After instantiating an energy model by using the BEM class, PyBEM allows to change several object properties such as the rotation of the building. PyBEM only allows to rotate the building model in a continuous range from 0&deg; to 90&deg;. However, due to the rectangular plan shape of the models produced by PyBEM, this ranges allows the simulation of any possible exposure scheme of a shoe box energy model. By default the rotation angle is 0&deg;. Because the original facades can assume different exposures/orientations, PyBEM labels each facade as shown in Figure 1 (below):
   
   - to do - insert Figure 1
   
   To change the rotation (and consequently the orientation) of an already instantiated model, we should use the _changeRotation_ method in the object. This method receives a rotation angles in degrees (float or integer). Below is an example to rotate the instance **bldg01** generated in the previous section.
   
-  {% highlight python %}
-  bldg01.changeRotation(45)
-  {% endhighlight %}
-  
-</details>
+```python
+bldg01.changeRotation(45)
+```
 
+#### Changing Window-to-Wall (WWR) ratio
+Content coming soon.
 
-<details> 
-  <summary> <b> Changing Window-to-Wall (WWR) ratio </b> </summary>
-  
-  Content coming soon.
-</details>
+#### Changing building envelope properties  
+Content coming soon.
 
-<details> 
-  <summary> <b> Changing building envelope properties </b> </summary>
-  
-  Content coming soon.
-</details>
+#### Visualizing the model   
+Content coming soon.
 
-<details> 
-  <summary> <b> Visualizing the Model </b> </summary>
-  
-  Content coming soon.
-</details>
-
-
-<details> 
-  <summary> <b> Simulating a Building </b> </summary>
-  
-  Content coming soon.
-  
-</details>
-
-### 
+#### Simulating a building with EnergyPlus  
+Content coming soon.
 
 ### PyBEM - Class atributes and methods
-<details> 
-  <summary> <b> Atributes </b> </summary>
-  
-  Content coming soon.
-</details>
+#### Atributes
+Content coming soon.
 
-<details> 
-  <summary> <b> Methods </b> </summary>
-  
-  Content coming soon.
-</details>
+#### Methods   
+Content coming soon.
 
 # MARKDOWN TEMPLATE GUIDE (to be deleted)
 ## Welcome to GitHub Pages
