@@ -1,5 +1,5 @@
 ### Installation
-The BEM module requires the following anciliary software, packages, and libraries:
+The PyBEM module requires the following anciliary software, packages, and libraries:
   - [Python 2.7](https://www.python.org/downloads/release/python-2713/) or [above](https://www.python.org/downloads/release/python-373/) - a modern programming language
   - [EnergyPlus 8.9.0](https://github.com/NREL/EnergyPlus/releases/tag/v8.9.0) - a whole building energy simulation software
   - [eppy](https://eppy.readthedocs.io/en/latest/installation.html) - a python-based programming language for EnergyPlus input and output files
@@ -8,10 +8,10 @@ The BEM module requires the following anciliary software, packages, and librarie
   - [matplotlib](https://matplotlib.org/users/installing.html) - a Python 2D data visualization library
 
 
-### BEM() - What is it?
+### PyBEM - What is it?
   Ipsum Dolor sit amet ...
 
-### Using BEM() - Tutorial
+### Using PyBEM - Tutorial
 Ipsum dolor sit amet...
 <details> 
   <summary> <b> Creating a building </b> </summary>
