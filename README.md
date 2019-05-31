@@ -11,7 +11,7 @@ The PyBEM module requires the following anciliary software, packages, and librar
 ### PyBEM - What is it?
   Ipsum Dolor sit amet ...
 
-### Using PyBEM - Tutorial
+### Using PyBEM - A quick tutorial
 Ipsum dolor sit amet...
 <details> 
   <summary> <b> Creating a building </b> </summary>
@@ -47,17 +47,19 @@ Ipsum dolor sit amet...
 
 <p> </p>
 
-# Appendix
-## BEM() - attributes and methods
-The following lists and briefly summarizes each class variable, atributes, and methods.
-
-### Class Variables
-
-### Attributes
-
-### Relevant Methods
+### pyBEM - Class atributes and methods
+<details> 
+  <summary> <b> Atributes </b> </summary>
+  
+  Content coming soon.
+</details>
 
 
+<details> 
+  <summary> <b> Methods </b> </summary>
+  
+  Content coming soon.
+</details>
 
 # MARKDOWN TEMPLATE GUIDE (to be deleted)
 ## Welcome to GitHub Pages
