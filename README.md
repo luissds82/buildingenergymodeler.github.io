@@ -7,7 +7,6 @@ The PyBEM module requires the following anciliary software, packages, and librar
   - [pandas](https://pandas.pydata.org/) - a Python package for data analysis 
   - [matplotlib](https://matplotlib.org/users/installing.html) - a Python 2D data visualization library
 
-
 ### PyBEM - What is it?
   Ipsum Dolor sit amet ...
 
@@ -47,7 +46,7 @@ Ipsum dolor sit amet...
 
 <p> </p>
 
-### pyBEM - Class atributes and methods
+### PyBEM - Class atributes and methods
 <details> 
   <summary> <b> Atributes </b> </summary>
   
