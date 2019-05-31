@@ -34,13 +34,13 @@ The PyBEM module requires the following anciliary software, packages, and librar
   
   {% highlight python %}
   bldg01 = BEM(5, 60, 30)
-  {% highlight python %}
+  {% endhighlight %}
   
   The following generates a building of 25 by 70 m building with 15 floors, each one with a floor to ceiling height of 3 m, with a rotation angle of 30&deg;. The location and WWR values are the default ones.
  
   {% highlight python %}
   bldg02 = BEM(15, 25, 70, rotation= 30.0)
-  {% highlight python %}
+  {% endhighlight %}
   
 </details>
 
