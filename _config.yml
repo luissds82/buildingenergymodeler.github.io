@@ -1,4 +1,4 @@
 title: PyBEM
 description: A python-based for modeling simplified EnergyPlus building energy models.
-#theme: jekyll-theme-minimal
+theme: jekyll-theme-minimal
 highlighter: rouge
