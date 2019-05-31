@@ -16,10 +16,10 @@ The PyBEM module requires the following anciliary software, packages, and librar
   
   First of all we need to import the PyBEM module which includes several auxiliary functions and the BEM class with its attributes and methods.
   
-  ```python
+  {% highlight python %}
   from PyBEM import pybem
   from PyBEM.pybem import *
-  ```
+  {% endhighlight %}
   
   Then we call the 'BEM' class to instantiate an building energy model (BEM). To instantiate the class we need to provide (in order): 
   1. Number of floors
@@ -27,16 +27,24 @@ The PyBEM module requires the following anciliary software, packages, and librar
   3. Length
   4. Floor Height - by default is set to 3 m
   5. Window-to-Wall Ratio (WWR) - by default is set to 40 (%)
-  6. Location - i.e., the path to an EnergyPlus weather (epw) file, that contains Typical Metereological Year data of a specific location. By default is set to Phoenix, AZ
-  7. Rotation - by default is set to 0&deg;
+  6. Location - i.e., the path to an EnergyPlus weather file (epw) - a text file that contains Typical Metereological Year data of a specific location. By default, the location is set to Phoenix, AZ. [!EnergyPlus website](https://energyplus.net/weather) provides an extensive library of epw files for diferent locations around the globe.
+  7. Rotation - by default is set to 0&deg;. PyBEM only supports a rotation angle from 0&deg; to 90&deg; 
   
-  Below is an example of how to create a BEM of a 60 by 30 m building with 5 floors with PyBEM. The floor height, location, WWR, and rotation are kept as default.
+  Below is an example of how to create a BEM of a 60 by 30 m building with 5 floors with PyBEM. The floor height, location, WWR, and rotation value are kept as the default ones.
   
-  ```python
-  bldg = BEM(5, 60, 30)
-  ```
+  {% highlight python %}
+  bldg01 = BEM(5, 60, 30)
+  {% highlight python %}
+  
   
 </details>
+
+<details> 
+  <summary> <b> Changing the rotation of the model </b> </summary>
+  After instantiating an energy model by using the BEM class, PyBEM allows to change several object properties such as the rotation of the building. PyBEM only allows
+  Content coming soon.
+</details>
+
 
 <details> 
   <summary> <b> Changing Window-to-Wall (WWR) ratio </b> </summary>
