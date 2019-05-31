@@ -15,7 +15,8 @@ The PyBEM module requires the following anciliary software, packages, and librar
   <summary> <b> Creating a building (energy model) </b> </summary>
   
   First of all we need to import the PyBEM module, the PyBEM class, methods, attributes, and auxiliary functions.
-  {% highlight python %}
+  
+  {% highlight ruby %}
   import pybem
   from pybem import *
   {% endhighlight %}
