@@ -32,9 +32,9 @@ The PyBEM module requires the following anciliary software, packages, and librar
   
   Below is an example of how to create a BEM of a 60 by 30 m building with 5 floors with PyBEM. The floor height, location, WWR, and rotation are kept as default.
   
-  ```python
+  {% endhighlight %}
   bldg = BEM(5, 60, 30)
-  ```
+  {% endhighlight %}
 </details>
 
 <details> 
@@ -60,6 +60,7 @@ The PyBEM module requires the following anciliary software, packages, and librar
   <summary> <b> Simulating a Building </b> </summary>
   
   Content coming soon.
+  
 </details>
 
 ### PyBEM - Class atributes and methods
