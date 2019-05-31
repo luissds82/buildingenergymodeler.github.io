@@ -45,13 +45,6 @@ Ipsum dolor sit amet...
   Something...
 </details>
 
-
-<details> 
-  <summary> <b> Visualizing Results </b> </summary>
-  
-  Something...
-</details>
-
 <p> </p>
 
 # Appendix
