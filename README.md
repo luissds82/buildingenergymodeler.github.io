@@ -54,7 +54,7 @@ The PyBEM module requires the following anciliary software, packages, and librar
   
   {% highlight python %}
   bldg01.changeRotation(45)
-  {% highlight python %}
+  {% endhighlight %}
   
 </details>
 
