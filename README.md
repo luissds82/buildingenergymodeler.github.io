@@ -12,34 +12,38 @@ The PyBEM module requires the following anciliary software, packages, and librar
 
 ### Using PyBEM - A quick tutorial
 <details> 
-  <summary> <b> Creating a building </b> </summary>
+  <summary> <b> Creating a building (energy model) </b> </summary>
   
-  Something...
+  First of all we need to import the PyBEM module, the PyBEM class, methods, attributes, and auxiliary functions.
+  ```python
+  import pybem
+  from pybem import *
+  ```
 </details>
 
 <details> 
   <summary> <b> Changing Window-to-Wall (WWR) ratio </b> </summary>
   
-  Something...
+  Content coming soon.
 </details>
 
 <details> 
-  <summary> <b> Changing Materials </b> </summary>
+  <summary> <b> Changing building envelope properties </b> </summary>
   
-  Something...
+  Content coming soon.
 </details>
 
 <details> 
   <summary> <b> Visualizing the Model </b> </summary>
   
-  Something...
+  Content coming soon.
 </details>
 
 
 <details> 
   <summary> <b> Simulating a Building </b> </summary>
   
-  Something...
+  Content coming soon.
 </details>
 
 ### PyBEM - Class atributes and methods
