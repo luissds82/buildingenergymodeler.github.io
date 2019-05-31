@@ -11,7 +11,6 @@ The PyBEM module requires the following anciliary software, packages, and librar
   Ipsum Dolor sit amet ...
 
 ### Using PyBEM - A quick tutorial
-Ipsum dolor sit amet...
 <details> 
   <summary> <b> Creating a building </b> </summary>
   
@@ -30,7 +29,6 @@ Ipsum dolor sit amet...
   Something...
 </details>
 
-
 <details> 
   <summary> <b> Visualizing the Model </b> </summary>
   
@@ -44,15 +42,12 @@ Ipsum dolor sit amet...
   Something...
 </details>
 
-<p> </p>
-
 ### PyBEM - Class atributes and methods
 <details> 
   <summary> <b> Atributes </b> </summary>
   
   Content coming soon.
 </details>
-
 
 <details> 
   <summary> <b> Methods </b> </summary>
