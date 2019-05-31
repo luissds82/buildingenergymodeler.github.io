@@ -41,7 +41,7 @@ The following generates a building of 25 by 70 m building with 15 floors, each o
   ```
   
 #### Changing the rotation of the model
-After instantiating an energy model by using the BEM class, PyBEM allows to change several object properties such as the rotation of the building. PyBEM only allows to rotate the building model in a continuous range from 0&deg; to 90&deg;. However, due to the rectangular plan shape of the models produced by PyBEM, this ranges allows the simulation of any possible exposure scheme of a shoe box energy model. By default the rotation angle is 0&deg;. Because the original facades can assume different exposures/orientations, PyBEM labels each facade as shown in Figure 1 (below):
+After instantiating an energy model by using the BEM class, PyBEM allows to change several object properties such as the rotation of the building. PyBEM only allows to rotate the building model in a continuous range from 0&deg; to 90&deg;. However, due to the rectangular plan shape of the models produced by PyBEM, this ranges allows the simulation of any possible exposure scheme of a shoe box energy model. By default the rotation angle is 0&deg;. Because the original facades can assume different exposures/orientations, PyBEM labels each facade as _A_, _B_, _C_, and _D_. Figure 1 shows the labeling of the facades in _bldg01_ and _bldg02_ instances. 
   
   - to do - insert Figure 1
   
