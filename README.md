@@ -19,6 +19,19 @@ The PyBEM module requires the following anciliary software, packages, and librar
   import pybem
   from pybem import *
   ```
+  Then we call the 'BEM' class to instantiate an building energy model (BEM). To instantiate the class we need to provide (in order): 
+  1. Number of floors
+  2. Width
+  3. Length
+  4. Floor Height - by default is set to 3 m
+  5. Window-to-Wall Ratio (WWR) - by default is set to 40 (%)
+  6. Location - i.e., the path to an EnergyPlus weather (epw) file, that contains Typical Metereological Year data of a specific location. By default is set to Phoenix, AZ
+  7. Rotation - by default is set to 0&deg;
+  
+  Below is an example of how to create a BEM of a 60 by 30 m building with 5 floors with PyBEM. The floor height, location, WWR, and rotation are kept as default.
+  ```python
+  bldg = BEM(5, 60, 30)
+  ```
 </details>
 
 <details> 
